@@ -14,3 +14,8 @@ case "White Rice":
     how = "<br><h3 style='color:green;'> Ounces </h3> <input  type='text' name='txtres' disabled> <h1> <br> <h1>How to make white rice?</h1><h2>Combine 1 cup of rice with 2 cups of water and 1 Tbsp olive oil. Bring to a boil, then reduce heat to the lowest setting. Cook for about 18 minutes.</h2>";
     break;
 
+    default:
+            how = "<h2 style='color:red;'> Sorry There is Somthing Wrong!!.<h2>";
+}
+document.getElementById("Recipe").innerHTML = how;
+}
