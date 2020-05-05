@@ -39,3 +39,9 @@ p {
   color: white;
   margin-bottom: 80px
 }
+.logo{
+
+  border-style: solid;
+  border-radius:50%;
+  border-color: white;
+}
