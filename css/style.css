@@ -12,3 +12,8 @@ background-color: #555;
   top: 18px;
   left: 10px;
 }
+div.solid {
+border-style: solid;
+border-radius:5px;
+  border-color: white;
+}
