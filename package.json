@@ -1,0 +1,14 @@
+{
+  "name": "compress-html",
+  "version": "1.0.0",
+  "description": "White or Black Rice Website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "assignment-2--intro-to-internet-programming--cs-275--spring-2020return"
+  },
+  "author": "Justinn Aiken",
+  "license": "ISC",
