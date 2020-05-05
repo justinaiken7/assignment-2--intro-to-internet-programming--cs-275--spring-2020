@@ -1,3 +1,9 @@
 body {
 background-color: #555;
 }
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
